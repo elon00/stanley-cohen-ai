@@ -26,7 +26,7 @@ module stanley_cohen_ai::launchpad_token {
             9,
             b"COHEN",
             b"Stanley Cohen",
-            b"Co-invented recombinant DNA bacterial transformation techniques with Herbert Boyer",
+            b"Discovered Epidermal Growth Factor (EGF) and cellular receptor signaling",
             std::option::none(),
             ctx
         );

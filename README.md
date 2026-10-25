@@ -6,13 +6,13 @@
 [![NIST FIPS 204](https://img.shields.io/badge/NIST-FIPS%20204%20(ML--DSA--65)-purple.svg)](https://csrc.nist.gov/pubs/fips/204/final)
 [![Reality Check](https://img.shields.io/badge/Reality%20Check-100%2F100%20Genuine%20Green-brightgreen.svg)](tests/reality_check_harness.py)
 
-> **Co-invented recombinant DNA bacterial transformation techniques with Herbert Boyer**
+> **Discovered Epidermal Growth Factor (EGF) and cellular receptor signaling**
 
 ---
 
 ## Overview
 
-Formalizing groundbreaking discoveries in **Biotechnology & Genetics** into parallel **Sui Move** object contracts and deterministic Rust invariant state machines.
+Formalizing groundbreaking discoveries in **Biochemistry** into parallel **Sui Move** object contracts and deterministic Rust invariant state machines.
 
 ### Architectural Stack
 1. **Sui Move Smart Contract (`sources/launchpad_token.move`)**: Native object-centric coin issuance and capability-gated micro-escrows.

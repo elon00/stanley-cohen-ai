@@ -17,7 +17,7 @@
       "tools": [
         {
           "name": "verify_stanley_cohen_discovery",
-          "description": "Verifies core invariant principles: Co-invented recombinant DNA bacterial transformation techniques with Herbert Boyer",
+          "description": "Verifies core invariant principles: Discovered Epidermal Growth Factor (EGF) and cellular receptor signaling",
           "parameters": {
             "type": "object",
             "properties": {
@@ -35,7 +35,7 @@
         },
         {
           "name": "model_stanley_cohen_telemetry",
-          "description": "Models high-assurance domain telemetry for Biotechnology & Genetics",
+          "description": "Models high-assurance domain telemetry for Biochemistry",
           "parameters": {
             "type": "object",
             "properties": {

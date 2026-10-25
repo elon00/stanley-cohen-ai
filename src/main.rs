@@ -1,8 +1,8 @@
 fn main() {
     println!("=======================================================");
     println!("[SUI WEB4] [STANLEY COHEN] ($COHEN)");
-    println!("[FIELD] Biotechnology & Genetics");
-    println!("[ROLE] Co-invented recombinant DNA bacterial transformation techniques with Herbert Boyer");
+    println!("[FIELD] Biochemistry");
+    println!("[ROLE] Discovered Epidermal Growth Factor (EGF) and cellular receptor signaling");
     println!("[CHAIN] Sui Move Object-Centric DAG Architecture");
     println!("[PQC] NIST FIPS 203 (ML-KEM-768) & FIPS 204 (ML-DSA-65) Active");
     println!("=======================================================");

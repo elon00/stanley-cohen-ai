@@ -36,6 +36,6 @@
 
 ### 2. State Invariants & Sui Move Execution
 - **Blockchain**: Sui Object-Centric DAG Protocol
-- **Field**: Biotechnology & Genetics
-- **Core Breakthrough**: Co-invented recombinant DNA bacterial transformation techniques with Herbert Boyer
+- **Field**: Biochemistry
+- **Core Breakthrough**: Discovered Epidermal Growth Factor (EGF) and cellular receptor signaling
 - **Move Package**: `sources/launchpad_token.move`

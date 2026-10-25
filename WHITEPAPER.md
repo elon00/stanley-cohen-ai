@@ -1,7 +1,7 @@
 # Stanley Cohen AI ($COHEN): Sui Move Protocol Whitepaper
 
 **Abstract**  
-This document specifies the technical architecture, object-centric Move tokenomics, and post-quantum cryptographic invariant proofs for **Stanley Cohen AI** (`$COHEN`) deployed on the **Sui** network. Inspired by Stanley Cohen's breakthroughs in *Biotechnology & Genetics*, this protocol leverages Sui's object capability model to achieve high-assurance, parallel transaction execution.
+This document specifies the technical architecture, object-centric Move tokenomics, and post-quantum cryptographic invariant proofs for **Stanley Cohen AI** (`$COHEN`) deployed on the **Sui** network. Inspired by Stanley Cohen's breakthroughs in *Biochemistry*, this protocol leverages Sui's object capability model to achieve high-assurance, parallel transaction execution.
 
 ---
 
